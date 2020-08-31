@@ -1,4 +1,4 @@
-#Mon Aug 31 20:13:00 NPT 2020
+#Mon Aug 31 21:03:42 NPT 2020
 base.0=C\:\\Users\\Prasis Poudel\\AndroidStudioProjects\\MyNotes2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
